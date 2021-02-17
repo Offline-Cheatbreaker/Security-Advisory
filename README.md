@@ -18,7 +18,7 @@ CheatBreaker's Official Security Advisory can be found [here](https://github.com
 [Ubuntu/Debian](https://www.virustotal.com/gui/file/779baf848ac6919e0dcb64fac854b9f0697426806af9d52c019f2a2e7b80e72b),
 [Linux (Other)](https://www.virustotal.com/gui/file/f94e8b99439fb35f132f7598cdf1c0c9221cad3234be6fbfd1ac805c765c394c).
 * Client:
-[1.7.10 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/2cc9d82005b211842aadd0741fc140a122038e5c1310c5b6c17861489d2fdbdc),
+[1.7.10 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/f3413ff94df68d073e348511aa6743605a01e6a169a62196130f5fa5ac2c5229),
 [1.8.9 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/38011dd989fec63c2def0608b868bd1d261365a2ce4c7a3acd220659d28a9338).
 
 ## Social Media Accounts
