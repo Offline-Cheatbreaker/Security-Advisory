@@ -13,17 +13,19 @@ CheatBreaker's Official Security Advisory can be found [here](https://github.com
 
 ## Malware scans (provided by VirusTotal)
 * Launchers:
-[Windows](https://www.virustotal.com/gui/file/3829040dd04dba5307ea8830e36589203fac87acde885967720fc425871c3022),
-[macOS](https://www.virustotal.com/gui/file/e7c19786ad132891acdee621825caf3e6385c9ba015037cf333ad1a47aeaaa45),
-[Ubuntu/Debian](https://www.virustotal.com/gui/file/779baf848ac6919e0dcb64fac854b9f0697426806af9d52c019f2a2e7b80e72b),
-[Linux (Other)](https://www.virustotal.com/gui/file/f94e8b99439fb35f132f7598cdf1c0c9221cad3234be6fbfd1ac805c765c394c).
+[Windows](https://www.virustotal.com/gui/file/32a35331d2a6c1003a358049b5b173c7cc30488ea6e345c7fa7640f276dbc935),
+[macOS](https://www.virustotal.com/gui/file/2c712355814b8f8a660db2d9f81cee49ce6eafe8d63a8af86e638d63ad62a7fb),
+[Ubuntu/Debian](https://www.virustotal.com/gui/file/f7a16c88874dc6c278b77ce71fb05260034288d13e3d2968dd735ad4cb8271e6),
+[Linux (Other)](https://www.virustotal.com/gui/file/e2d31a09e863f134e0946fde42a093d178336166b690799c90a17be2e91b27d2).
 * Client:
-[1.7.10 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/f3413ff94df68d073e348511aa6743605a01e6a169a62196130f5fa5ac2c5229),
-[1.8.9 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/38011dd989fec63c2def0608b868bd1d261365a2ce4c7a3acd220659d28a9338).
+[1.7.10 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/41cb018b1bfb8dcc33579d7dc94e0cfdea6aa70ac9ec2ef66d3f838acdd5cdec),
+[1.8.9 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/1d1e4318cf7e6288f03e11f43f52be2dccb6de5a010adbdd62689cb23a6aa498).
 
 ## Social Media Accounts
 * The only Twitter account operated by us is [@OfflineCB](https://twitter.com/OfflineCB).
-* We also have a [Discord server](https://discord.offlinecheatbreaker.com).
+* The only Discord server operated by us is [Offline CheatBreaker](https://discord.offlinecheatbreaker.com).
+* The only Telegram server operated by us is [Offline CheatBreaker](https://t.me/OfflineCheatBreaker).
+
 
 ## Website
 * The only website operated by us is https://offlinecheatbreaker.com .
