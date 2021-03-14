@@ -3,7 +3,7 @@ This repository contains important security information regarding this Offline C
 
 ## General Information
 * This Offline CheatBreaker is a Minecraft 1.7.10 and 1.8.9 client. Our 1.7.10 version uses the original 2018 CheatBreaker with new features, modifications and bug fixes to keep it up to date, and the 1.8.9 version is a reskin of Lunar Client 1.8.9.
-* This Offline CheatBreaker is by no means a virus, or ratted in any way. All allegations saying otherwise are false. We do not recommend downloading any version of this Offline CheatBreaker from anywhere except our [website](https://offlinecheatbreaker.com) and [GitHub](https://github.com/Offline-Cheatbreaker). Many people have created malware while pretending to be Offline CheatBreaker.
+* This Offline CheatBreaker is by no means a virus, or ratted in any way. All allegations saying otherwise are false. We do not recommend downloading any versions of this Offline CheatBreaker from anywhere except our [website](https://offlinecheatbreaker.com) and [GitHub](https://github.com/Offline-Cheatbreaker). Many people have created malware while pretending to be Offline CheatBreaker.
 * This Offline CheatBreaker is available to the public in a form of a launcher with 1.7.10 and 1.8.9 launch options (We don't provide direct download links to our game files).
 * All our game files are obfuscated.
 * We provide cosmetics (capes and wings) for free (Open cosmetics menu to select the cosmetics you want).
