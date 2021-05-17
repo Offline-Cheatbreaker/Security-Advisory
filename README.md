@@ -18,8 +18,8 @@ CheatBreaker's Official Security Advisory can be found [here](https://github.com
 [Ubuntu/Debian](https://www.virustotal.com/gui/file/bd432fc4b8b2555a9a758f49a1fecdfb273f14ed8312ce77518d3b2163024679),
 [Linux (Other)](https://www.virustotal.com/gui/file/a82cfcb4e951ae6024288b581b076cdb246fdb15fadd77b579221a8d2320b1f6).
 * Client:
-[1.7.10 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/f4350405670dbcf5d6c6e37d8e3b87b3790ba0c583a16ca0e186f55679b79343),
-[1.8.9 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/9f2314b3237facdb6eaebdc809a87928d9cc24d00e7c8a62ec3ae8598f489a68).
+[1.7.10 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/157061ec6cd125aa5c6d231117ff6196c8b2c942aa252e9f4d4d38dda11b4c2f),
+[1.8.9 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/43ae8b7f905d66c9cbe00b0dcb12a1354e30480a16d9dcb7d286aa19d9ddf338).
 
 ## Social Media Accounts
 * The only Twitter account operated by us is [@OfflineCB](https://twitter.com/OfflineCB).
