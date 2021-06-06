@@ -13,10 +13,10 @@ CheatBreaker's Official Security Advisory can be found [here](https://github.com
 
 ## Malware scans (provided by VirusTotal)
 * Launchers:
-[Windows](https://www.virustotal.com/gui/file/c1068bce7ea7e7f02bdddf06b7518b901bdeb4755723f1db5d4d959d0bfa29f0),
-[macOS](https://www.virustotal.com/gui/file/388989603e9b51b4aa2c48336a7d7384c0558d575394d8bbea5859739059fbb2),
-[Ubuntu/Debian](https://www.virustotal.com/gui/file/bd432fc4b8b2555a9a758f49a1fecdfb273f14ed8312ce77518d3b2163024679),
-[Linux (Other)](https://www.virustotal.com/gui/file/a82cfcb4e951ae6024288b581b076cdb246fdb15fadd77b579221a8d2320b1f6).
+[Windows](https://www.virustotal.com/gui/file/86a36dea741e9b3c59ec86602baf8e3146bc181cfc188404050998aa01875c25),
+[macOS](https://www.virustotal.com/gui/file/85d89511444f9a55060435960ea4b53adc2f4af49371ca347e5db7270e6c1d65),
+[Ubuntu/Debian](https://www.virustotal.com/gui/file/00d6d5b4b1fda5d93e59a9b7aae4bc25e82bcc6a7581e6957d61c603d6d1a230),
+[Linux (Other)](https://www.virustotal.com/gui/file/bebee9edb1526f3b02c81307bb2dab7d2b5c9f81cfc341fe7d576ab3a028efe3).
 * Client:
 [1.7.10 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/34ca789797fd149c43e403641f898d95f0b754af346f66b7703a98796e317c63),
 [1.8.9 (Windows & macOS & Linux)](https://www.virustotal.com/gui/file/c1a3a8fded25ffc46fb0117de96b27f4d90f27920cffa31eff358a9494dca070).
