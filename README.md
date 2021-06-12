@@ -23,7 +23,7 @@ CheatBreaker's Official Security Advisory can be found [here](https://github.com
 
 ## Social Media Accounts
 * The only Twitter account operated by us is [@OfflineCB](https://twitter.com/OfflineCB).
-* The only Discord server operated by us is [Offline CheatBreaker](https://discord.offlinecheatbreaker.com).
+* The only Discord server operated by us is [Offline CheatBreaker](https://discord.gg/CheatBreaker).
 * The only Telegram server operated by us is [Offline CheatBreaker](https://t.me/OfflineCheatBreaker).
 
 
